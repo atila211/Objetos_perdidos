@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "206652764861",
+    "project_id": "dam-2026-tuinf-fb277",
+    "storage_bucket": "dam-2026-tuinf-fb277.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206652764861:android:05ce8701336195b5743dd4",
+        "android_client_info": {
+          "package_name": "com.proyecto.deposito"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206652764861-u8r3v0v619dbi5rve01sr3qopvn5ogtl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.proyecto.deposito",
+            "certificate_hash": "d3ab5b067d0502416ba6e4597e2b04e30e434a46"
+          }
+        },
+        {
+          "client_id": "206652764861-r5dhmbeqivv87q67k7da6bp1o8h69e2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA8HiuTI2PPEcLhDkykOPLZZaWYf8Qw4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206652764861-r5dhmbeqivv87q67k7da6bp1o8h69e2t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
